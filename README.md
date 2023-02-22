@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 
 <br>
-ABOUT                                                      
+ABOUT ME                                                   
 <br>
 I work as a chemistry technician in the field of polymers and I'm a student of Analysis and Systems Development at college in Brazil.
 <br>
