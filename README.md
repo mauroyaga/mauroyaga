@@ -22,7 +22,7 @@ As a second-semester student of Analysis and Systems Development at Senac Paran√
 <br>
 I'm very happy for the opportunity to take my first steps in the programming universe and be a part of this community. I'll work hard every day to build a solid foundation.
 <br/>
-________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________
 <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mauroyaga&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mauro Cesar Yaga Junior github stats" /> 
