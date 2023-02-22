@@ -2,14 +2,16 @@
 
 ____________________________________________________________________________________________________________________________
 <br>
-  Hello, Welcom!
+  Hello, Welcom!🖖
 <br>
 
 
 <br>
-ABOUT 
+ABOUT                                                      
 <br>
 I work as a chemistry technician in the field of polymers and I'm a student of Analysis and Systems Development at college in Brazil.
+<br>
+⚗️📚🖥️
 <br>
 <br>
 
