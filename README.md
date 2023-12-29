@@ -2,12 +2,12 @@
 
 ____________________________________________________________________________________________________________________________
 
-  Hello, Welcome!🖖
+  Olá, Bem vindo!🖖
 <br>
 
 
 <br>
-ABOUT ME                                                   
+SOBRE MIM                                                
 <br>
 Eu trabalho como técnico em química na área de polímeros e sou estudante de Análise e Desenvolvimento de Sistemas no Senac -PR, Maringá, Brasil.
 <br>
