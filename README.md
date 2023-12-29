@@ -9,7 +9,7 @@ ________________________________________________________________________________
 <br>
 ABOUT ME                                                   
 <br>
-I work as a chemistry technician in the field of polymers and I'm a student of Analysis and Systems Development at college in Brazil.
+Eu trabalho como técnico em química na área de polímeros e sou estudante de Análise e Desenvolvimento de Sistemas no Senac -PR, Maringá, Brasil.
 <br>
 ⚗️📚🖥️
 <br>
