@@ -18,9 +18,10 @@ I work as a chemistry technician in the field of polymers and I'm a student of A
 <br>
 BIO
 <br>
-As a second-semester student of Analysis and Systems Development at Senac Paraná College in Maringá, I'm mostly focused on the fundamentals of logic, data structures, networks, databases, and GNU/Linux operating systems. Using languages like C, HTML, CSS, Java, and PHP, I'm developing my first CRUDs and dynamic websites. In my personal study routine, I'm focused on hardware-related technologies such as digital circuits, and back-end technologies like GNU/Linux operating systems, servers, networks, and data storage.
+Como estudante do quarto semestre de Análise e Desenvolvimento de Sistemas no Senac Paraná em Maringá, estou principalmente concentrado nos fundamentos de lógica, estruturas de dados, redes, bancos de dados e sistemas operacionais GNU/Linux. Utilizando linguagens como C, HTML, CSS, Java e PHP, estou desenvolvendo meus primeiros CRUD's e websites dinâmicos. 
+
 <br>
-I'm very happy for the opportunity to take my first steps in the programming universe and be a part of this community. I'll work hard every day to build a solid foundation.
+Estou muito feliz pela oportunidade de dar meus primeiros passos no universo da programação e fazer parte desta comunidade. Trabalharei duro todos os dias para construir uma base sólida.
 <br/>
 ________________________________________________________________________________________________________________________________________________
 <br>
