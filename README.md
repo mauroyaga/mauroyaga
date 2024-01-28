@@ -18,7 +18,7 @@ Eu trabalho como técnico em química na área de polímeros e sou estudante de 
 <br>
 BIO
 <br>
-Como estudante do quarto semestre de Análise e Desenvolvimento de Sistemas no Senac Paraná em Maringá, estou principalmente concentrado nos fundamentos de lógica, estruturas de dados, redes, bancos de dados e sistemas operacionais GNU/Linux. Utilizando linguagens como C, HTML, CSS, Java e PHP, estou desenvolvendo meus primeiros CRUD's e websites dinâmicos. 
+Sou estudante do quarto semestre de Análise e Desenvolvimento de Sistemas no Senac Paraná em Maringá. Estou principalmente concentrado nos fundamentos de lógica, estruturas de dados, redes, bancos de dados e sistemas operacionais GNU/Linux. Utilizando linguagens como C, Java estou desenvolvendo meus primeiros CRUD's e websites dinâmicos. 
 
 <br>
 Estou muito feliz pela oportunidade de dar meus primeiros passos no universo da programação e fazer parte desta comunidade. Trabalharei duro todos os dias para construir uma base sólida.
