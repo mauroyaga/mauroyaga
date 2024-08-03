@@ -2,27 +2,23 @@
 
 ____________________________________________________________________________________________________________________________
 
-  Olá, Bem vindo!🖖
+  Olá, Bem vindo!
 <br>
 
 
 <br>
-SOBRE MIM                                                
+BIO                                               
 <br>
-Eu trabalho como técnico em química na área de polímeros e sou estudante de Análise e Desenvolvimento de Sistemas no Senac -PR, Maringá, Brasil.
+Estudante de Análise e Desenvolvimento de Sistemas. Atuo há 10 anos na indústria química e estou em transição de carreira para o desenvolvimento de software.
+
+Tenho interesse em desenvolvimento backend com foco em tecnologias como Java, PostgreSQL e Kubernetes utilizando a cultura Devops.
+
+Meus projetos atuais envolvem automação, colaboração e comunicação, monitoramento e melhoria contínua de sistemas.
 <br>
 ⚗️📚🖥️
 <br>
-<br>
 
 <br>
-BIO
-<br>
-Sou estudante do quarto semestre de Análise e Desenvolvimento de Sistemas no Senac Paraná em Maringá. Estou principalmente concentrado nos fundamentos de lógica, estruturas de dados, redes, bancos de dados e sistemas operacionais GNU/Linux. Utilizando linguagens como C, Java estou desenvolvendo meus primeiros CRUD's e websites dinâmicos. 
-
-<br>
-Estou muito feliz pela oportunidade de dar meus primeiros passos no universo da programação e fazer parte desta comunidade. Trabalharei duro todos os dias para construir uma base sólida.
-<br/>
 ________________________________________________________________________________________________________________________________________________
 <br>
 <div align="center">  
