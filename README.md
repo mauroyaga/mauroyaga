@@ -13,9 +13,7 @@ ________________________________________________________________________________
 
 📧 mauro.yagajr@gmail.com
 
-💻 [github.com/mauroyaga](https://github.com/mauroyaga)
-
-🌐 [mauroyaga.github.io](https://mauroyaga.github.io)
+🌐 [Portfólio](https://mauroyaga.github.io)
 
 
 
