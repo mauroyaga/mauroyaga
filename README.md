@@ -1,27 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=To+undestand+recursion,;I+need+understand+recursion...;)](https://git.io/typing-svg)
+### Olá, sou Mauro 👋
 
-____________________________________________________________________________________________________________________________
+Técnico em Química com CRQ ativo e formado em 
+Análise e Desenvolvimento de Sistemas.
 
-  Olá, Bem vindo!
-<br>
+Doze anos dentro da indústria química, sendo oito 
+em laboratório de controle de qualidade. Hoje 
+desenvolvo soluções com inteligência artificial 
+voltadas para automação de processos e análise 
+de dados industriais.
 
-
-<br>
-BIO                                               
-<br>
-Estudante de Análise e Desenvolvimento de Sistemas. Atuo há 10 anos na indústria química e estou em transição de carreira para o desenvolvimento de software.
-
-Tenho interesse em desenvolvimento backend com foco em tecnologias como Java, PostgreSQL e Kubernetes utilizando a cultura Devops.
-
-Meus projetos atuais envolvem automação, colaboração e comunicação, monitoramento e melhoria contínua de sistemas.
-<br>
-⚗️📚🖥️
-<br>
-
-<br>
 ________________________________________________________________________________________________________________________________________
 
-
+📧 mauro.yagajr@gmail.com
+💻 [github.com/mauroyaga](https://github.com/mauroyaga)
+🌐 [mauroyaga.github.io](https://mauroyaga.github.io)
 
 
 
