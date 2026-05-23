@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 📧 mauro.yagajr@gmail.com
 
-💼 [LinkedIn](https://www.linkedin.com/in/mauroyaga/)
+💼 [linkedin.com/in/mauroyaga](https://www.linkedin.com/in/mauroyaga/)
 
 
 
