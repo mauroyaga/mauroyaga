@@ -12,9 +12,7 @@ de dados industriais.
 ________________________________________________________________________________________________________________________________________
 
 📧 mauro.yagajr@gmail.com
-
-🌐 [Portfólio](https://mauroyaga.github.io)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauroyaga/)
 
 
 
